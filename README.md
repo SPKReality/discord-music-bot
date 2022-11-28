@@ -1,2 +1,1 @@
-# discord-music-bot
-Open source discord music bot
+# Spark-Music-Bot
